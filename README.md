@@ -1,5 +1,5 @@
-# Title: Identification of influential nodes in complex networks with degree and average neighbor degree 
-# Author: Dan Chen, Housheng Su
+## Title: Identification of influential nodes in complex networks with degree and average neighbor degree 
+## Author: Dan Chen, Housheng Su
 
 ## Environment and library dependencies:
 Python==3.9.6,
